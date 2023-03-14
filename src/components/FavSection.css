@@ -1,0 +1,12 @@
+.FavSection {
+    height: 200px;
+    width: 300px;
+    z-index: 2;
+    color: white;
+    display: flex;
+
+    flex-direction: row;
+}
+.h2{
+    text-decoration-color: white;
+}
